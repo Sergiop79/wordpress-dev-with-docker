@@ -37,7 +37,7 @@ The WordPress files will save in the `wordpress-data` folder.
 
 ## WordPress mysql database
 
-The database will be stored in a named docker volume for example `your-project-folder_db_data`.
+The database will be stored in a named docker volume for example `your-project-folder_db_data`. In a local folder named `db_data`.
 
 You can see this running:
 
